@@ -1,0 +1,21 @@
+h1 {
+    font-size: 60px;
+    font-family: Arial, Verdana, Helvetica,sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Arial, Verdana, Helvetica,sans-serif;
+}
+
+li {
+    font-size: 25px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 25px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    line-height: 1.5;
+}
