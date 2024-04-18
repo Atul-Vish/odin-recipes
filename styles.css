@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+.main {
+    font-family: 'Times New Roman', Georgia, Garamond, serif;
+    font-size: 80px;
+    padding: 10px;
+}
+
+.recipes {
+    font-family: 'Times New Roman', Georgia, Garamond, serif;
+    font-size: 30px;
+    padding: 10px 40px;
+    line-height: 1.5;
+}
+
 .page_1,
 .page_2,
 .page_3 {
@@ -24,7 +37,7 @@
 }
 
 .page_3 {
-    height: 2000px;
+    height: 2100px;
     background-color: pink;
     border: 10px solid red;
 }
